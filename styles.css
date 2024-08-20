@@ -1,0 +1,39 @@
+body{
+    background-color: rgba(245, 94, 7, 0.315);
+   
+}
+.container{
+     width:763px; 
+    height:70px;
+    background-color:rgb(112, 41, 8);
+    margin: 20px 70px ;
+    text-align: center;border-radius: 10px;
+}
+.recip-container{
+    margin: 20px 70px ;
+    width:763px;
+    padding-top: 40px ;
+    padding-right:0px;
+}
+.cake-recipe{
+    display:inline-block;
+    margin: 20px 30px 90px 0px;
+    height:600px;
+    width:300px;
+    background-color:rgb(112, 41, 8);
+    
+    text-align: center;
+    border-radius: 10px;
+}
+.cookie-recipe{
+    display:inline-block;
+    margin-top: 20px ;
+    margin-left:121px;
+    
+    height:600px;
+    width:300px;
+    background-color:rgb(112, 41, 8);
+    
+    text-align: center;
+    border-radius: 10px;
+}
